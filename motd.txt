@@ -1,6 +1,7 @@
-Hello! This is an alpha test for Chicky Chase! 
-Please make sure to follow the rules which are
-Listed Below this sign. We have a banning system
-working, so follow them. We hope you have fun!
+Hello! Welcome to the 2nd Chicky Chase test!
+We have now added a server switcher, and some
+bug patches. We are hoping to add hands for
+our player model before the planned release
+date! Hope you have fun!
 
 - The Moderation Team
